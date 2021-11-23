@@ -1,0 +1,20 @@
+p{
+	color: blueviolet;
+}
+
+body{
+	background-color: white;
+	background-image: url(totoro.png);
+	background-repeat: no-repeat;
+	font-family: 'Amatic SC', cursive;
+}
+
+img{
+	width: 200px;
+}
+
+ul{
+	list-style-type: circle;
+}
+
+
